@@ -1,2 +1,3 @@
 # data_driven_analysis
- Basic Concepts in Business Data Analysis
+
+My review journal on basic business data analysis following the brilliant series of Barış Karaman (https://towardsdatascience.com/@karamanbk)
